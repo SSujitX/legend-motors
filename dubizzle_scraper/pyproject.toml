@@ -1,0 +1,16 @@
+[project]
+name = "dubizzle-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13.3"
+dependencies = [
+    "curl-cffi>=0.11.4",
+    "nest-asyncio>=1.6.0",
+    "pandas>=2.3.0",
+    "pyautogui>=0.9.54",
+    "requests>=2.32.4",
+    "rich>=14.0.0",
+    "selectolax>=0.3.30",
+    "seleniumbase>=4.39.5",
+]
