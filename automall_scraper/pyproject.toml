@@ -1,0 +1,12 @@
+[project]
+name = "automall-scraper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "curl-cffi>=0.11.1",
+    "pandas>=2.2.3",
+    "rich>=14.0.0",
+    "selectolax>=0.3.29",
+]
