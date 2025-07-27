@@ -9,7 +9,7 @@ dependencies = [
     "pandas>=2.2.3",
     "rich>=14.0.0",
     "selectolax>=0.3.29",
-    "schedule>=1.2.0",
-    "pytz>=2023.3",
+    "schedule>=1.2.2",
+    "pytz>=2025.2",
 ]
 
